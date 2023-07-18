@@ -1,6 +1,8 @@
 # Pleh! Public Edition
  This is the open-source copy of the free game [Pleh! on Steam](https://store.steampowered.com/app/2191550/Pleh).
 
+ It was made and tested on Unity version 2020.3.0f1 and may not work on other versions.
+ 
  You're free to do whatever you want with this as long as it's not for commercial use.
 
 ## Aura 2
