@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 184b31615fabdff44a4b65b4e78fd245, type: 3}
+  m_Name: Amelia_Intro_1_4
+  m_EditorClassIdentifier: 
+  messages:
+  - Oooh I know the feeling
+  - So you're finally getting into mobile games then?
+  - 'Congrats! '
+  - I guess I was right about you all along!
+  responses:
+  - Congratulations, here's an award
+  - I guess so
+  - You know me so well? What am I thinking?
+  - Help I can't stop playing!
+  messageConvos:
+  - {fileID: 11400000, guid: 0c55cb66b818b58459ea741366137199, type: 2}
+  - {fileID: 11400000, guid: 21c350bf53b9fb8469fb90c413945295, type: 2}
+  - {fileID: 11400000, guid: c13f280d7df4e4147ac119fa384e13db, type: 2}
+  - {fileID: 11400000, guid: ccd980af0ab763d4fa4b4611f0f75a35, type: 2}
+  IsForced: 0
+  lineToPlay: []

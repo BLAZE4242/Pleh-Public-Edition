@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 184b31615fabdff44a4b65b4e78fd245, type: 3}
+  m_Name: Amelia_Intro_1_2_1
+  m_EditorClassIdentifier: 
+  messages:
+  - '{ts}Okay well'
+  - '{s}Fine.'
+  - I, AMELIA AM ANOUNCING
+  - '*drumroll please*'
+  - MY ABSENCE OF MOBILE GAMES FOR THE NEXT HOUR
+  responses:
+  - Surely you can go all day
+  - Nah make it a week
+  - That's too short, just go an entire month
+  - Sounds good to me
+  messageConvos:
+  - {fileID: 11400000, guid: 0990c4f401eca134890ed306c345a649, type: 2}
+  - {fileID: 11400000, guid: c5128bd43e76f564cbdb360e405eb0e0, type: 2}
+  - {fileID: 11400000, guid: 29f563fc87056e04eb57119954abd88d, type: 2}
+  - {fileID: 11400000, guid: 719c016dfc279474fa670d40090c2189, type: 2}
+  IsForced: 0
+  lineToPlay: []

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 184b31615fabdff44a4b65b4e78fd245, type: 3}
+  m_Name: Trailer
+  m_EditorClassIdentifier: 
+  messages:
+  - hey r u there?
+  - helllllllo?
+  - look, im getting rly worried abt u
+  - r u ok?
+  - pls stop ignoring me...
+  - 'sdfsdjkfhdgbdgdfjgndf d fg df g df gd f g df g df g df gd fg d fg df g dfg '
+  responses:
+  - w
+  - w
+  - w
+  - w
+  messageConvos:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  lineToPlay: []

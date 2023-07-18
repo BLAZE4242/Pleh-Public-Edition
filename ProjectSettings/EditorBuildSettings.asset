@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Others/openScene/openScene.unity
+    guid: 20acc9d614f2d7446b5cb9b159056087
+  - enabled: 1
+    path: Assets/Scenes/Others/jesterGames.unity
+    guid: 868b44879c8b1d44098a8da42b2ff2f0
+  - enabled: 1
+    path: Assets/Scenes/Pleh/Menu 1.unity
+    guid: a2ca288118635f04ab2ded53a11a11f9
+  - enabled: 1
+    path: Assets/Scenes/Pleh/Level 1.unity
+    guid: 3d76d1607bf4969429f3c92b9a335bdb
+  - enabled: 1
+    path: Assets/Scenes/Pleh/Level 2.unity
+    guid: e62592fcfdc45154e893712b369616f7
+  - enabled: 1
+    path: Assets/Scenes/Pleh/Level 3.unity
+    guid: 458a717879de0be4abb01159eeffffb3
+  - enabled: 1
+    path: Assets/Scenes/Pleh/Level 4.unity
+    guid: b271fced0dc4b7f4faedaddb29d1daf0
+  - enabled: 1
+    path: Assets/Scenes/Others/devIntro.unity
+    guid: 6c058b0e6d5463a46be2593e94549a06
+  - enabled: 1
+    path: Assets/Scenes/Projects/dox/dox.unity
+    guid: 06a96acfad6db8644baf64cb0bbe661d
+  - enabled: 1
+    path: Assets/Scenes/Others/null/null.unity
+    guid: 3697d7b78d5247c4296c86fe36236119
+  - enabled: 1
+    path: Assets/Scenes/Hub/hub_glitch.unity
+    guid: 569db308dd67df447992af8302806dca
+  - enabled: 1
+    path: Assets/Scenes/Projects/LostInThoughts.unity
+    guid: 2613bc4c9b6fe1c4cab61cd68d3449b1
+  - enabled: 1
+    path: Assets/Scenes/Projects/UT/UnderThoughts.unity
+    guid: cf5c9f3835ddd1d4eb028f56af3c613c
+  - enabled: 1
+    path: Assets/Scenes/Projects/UT/UnderThoughts Part 2.unity
+    guid: dfac8ba9be56cee4fa777c63907fea22
+  - enabled: 1
+    path: Assets/Scenes/Hub/hub_main.unity
+    guid: a6b4178399056c34fb63ae2b885a1e86
+  - enabled: 1
+    path: Assets/Scenes/Projects/New Messages/New Messages.unity
+    guid: 3fba2fe14489c6048b19a58419726a97
+  - enabled: 1
+    path: Assets/Scenes/Others/dev_angry/dev_angry.unity
+    guid: 8de4f1b917d37be47a79cc52715926bf
+  - enabled: 1
+    path: Assets/Scenes/Others/RedText Intro/RedText Intro.unity
+    guid: 7ad97833fa8827142a333d63e4a3b1e2
+  - enabled: 1
+    path: Assets/Scenes/Others/Look Both Ways/Look both ways.unity
+    guid: 384fff14def1f5d49afd76bc6f50bcc6
+  - enabled: 1
+    path: Assets/Scenes/Projects/Amelia Restaurant/Amelia_Restaurant.unity
+    guid: 1c20107b8e442b041b139b08b2193b5c
+  - enabled: 1
+    path: Assets/Scenes/Projects/DevArgue/DevArgue.unity
+    guid: 7cbf8e5ede6f0274195b9d6d7dbec778
+  - enabled: 1
+    path: Assets/Scenes/Pleh/Glitch Levels/Level 1_G.unity
+    guid: 0db06a7b94b14d24384ff0e276458adc
+  - enabled: 1
+    path: Assets/Scenes/Amelia_Ocean/Amelia_Ocean.unity
+    guid: 61ed4d8fdecac6a4c87bcb2ce3381e0b
+  - enabled: 1
+    path: Assets/Scenes/Projects/House_Chores/House_Chores.unity
+    guid: 540407ea00f6bc84ba2f32ef0a63e30a
+  - enabled: 1
+    path: Assets/Scenes/Others/Dev_Confess/Dev_Confess.unity
+    guid: 54fcdc403e4f95247856130ba821282a
+  - enabled: 1
+    path: Assets/Scenes/Others/Amelia_Confess/Amelia_Confess.unity
+    guid: 3ab9c0aa2de5493489c1dc26302fe521
+  - enabled: 1
+    path: Assets/Scenes/Others/City_End/City_End.unity
+    guid: 941b9094472f3a84aba43049270cea7e
+  - enabled: 1
+    path: Assets/Scenes/Projects/Quiz End/Quiz End.unity
+    guid: 58ea71875ee975b48917859afda96e8b
+  - enabled: 1
+    path: Assets/Scenes/ARG/Reboot.unity
+    guid: 65d9b1929c242654797e4e77819ef251
+  - enabled: 1
+    path: Assets/Scenes/Others/ARG file explorer/file demo explorer.unity
+    guid: c847e5b10f73c694399dcad713d96a3a
+  - enabled: 1
+    path: Assets/Scenes/Hub/hub_bingus.unity
+    guid: 0b489a46d49d5c94bbcc430eee4f2d6b
+  - enabled: 1
+    path: Assets/Scenes/ARG/EKSE/ekse.unity
+    guid: 65c3935e5f6b86b4684b4b198eed0f7b
+  m_configObjects: {}

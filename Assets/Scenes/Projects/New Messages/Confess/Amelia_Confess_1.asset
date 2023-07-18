@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 184b31615fabdff44a4b65b4e78fd245, type: 3}
+  m_Name: Amelia_Confess_1
+  m_EditorClassIdentifier: 
+  messages:
+  - So about the other night...
+  - Yknow on the pier and stuff
+  - Remember the ocean?
+  responses:
+  - It was beautiful
+  - It was peaceful
+  - It's too late at night for me to remember right now
+  - What about it?
+  messageConvos:
+  - {fileID: 11400000, guid: 527a2353784a4794d885cc11010cfb98, type: 2}
+  - {fileID: 11400000, guid: 527a2353784a4794d885cc11010cfb98, type: 2}
+  - {fileID: 11400000, guid: 527a2353784a4794d885cc11010cfb98, type: 2}
+  - {fileID: 11400000, guid: 527a2353784a4794d885cc11010cfb98, type: 2}
+  IsForced: 0
+  lineToPlay: []

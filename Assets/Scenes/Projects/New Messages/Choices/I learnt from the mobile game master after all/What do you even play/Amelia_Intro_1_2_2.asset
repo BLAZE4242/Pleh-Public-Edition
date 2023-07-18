@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 184b31615fabdff44a4b65b4e78fd245, type: 3}
+  m_Name: Amelia_Intro_1_2_2
+  m_EditorClassIdentifier: 
+  messages:
+  - 'Ummm mostly just town building games '
+  - yknow, like the simulators where u can level up
+  - what about you, what's ur fav kind of mobile games?
+  responses:
+  - Runner games are addicting
+  - I like puzzle games
+  - No way I love town building games!
+  - Unpopular opinion, shooter games
+  messageConvos:
+  - {fileID: 11400000, guid: a96e33967643d9f4f97d83e6f9557336, type: 2}
+  - {fileID: 11400000, guid: a96e33967643d9f4f97d83e6f9557336, type: 2}
+  - {fileID: 11400000, guid: f94cc53d3610ce742bd27240b4b2f648, type: 2}
+  - {fileID: 11400000, guid: 05badf837ce03af49b05fd4417c596a4, type: 2}

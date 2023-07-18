@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4147978901017158064
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4147978901017158065}
+  - component: {fileID: 1553511126257982535}
+  - component: {fileID: 2614750872846170927}
+  - component: {fileID: 5011386401542444976}
+  - component: {fileID: 3532929999912602127}
+  m_Layer: 0
+  m_Name: PlutoOS
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4147978901017158065
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4147978901017158064}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1553511126257982535
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4147978901017158064}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d65cf67667b8f544a2c6a49cc5c6f12, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AchievementToRemove: 
+--- !u!114 &2614750872846170927
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4147978901017158064}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef4bffeda13d7a748973ff9204401c07, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &5011386401542444976
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4147978901017158064}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d05f81f98726d4b4cacdace6e45ec6a7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  topText: Playing Pleh!
+  bottomText: 
+  topTextEditor: Programming Pleh!
+  editorTexts:
+  - I liek sitting on chairs
+  - I could be playing beat saber now
+  - mommy sorry mommy sorry mommy sorry mommy sorry
+  - c# my beloved
+  - c# > java :)
+  - where acc?
+  - System.Linq <3
+  - monika nendoroid monika nendoroid monika nendoroid
+  - '{playerName}, that''s a nice name.'
+  - monka
+  image: pleh
+  miniImage: 
+  shouldCheckForDiscordInfo: 1
+  playerName: 
+  discriminator: 
+  premiumString: 
+  flagString: 
+  friendList: []
+  friendListAsId: 
+  blockedList: []
+  isConnectedToUser: 0
+  hasCheckedRelationships: 0
+  friendName: 
+--- !u!114 &3532929999912602127
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4147978901017158064}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a833dff9fd055b44e94a9cacb1ffacab, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mixer: {fileID: 24100000, guid: 001345bfd919c24489a03e2337b6ed5e, type: 2}

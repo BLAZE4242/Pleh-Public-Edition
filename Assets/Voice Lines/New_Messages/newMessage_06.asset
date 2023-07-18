@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18208400d3a92224e9988e2fc344375a, type: 3}
+  m_Name: newMessage_06
+  m_EditorClassIdentifier: 
+  events:
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 11400000, guid: fb0805b1ad9650447baacb6ae6ac07e6, type: 2}
+        m_TargetAssemblyTypeName: loophouse.ScriptableEvents.ScriptableEvent, loophouse.ScriptableEvents
+        m_MethodName: Invoke
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  eventTimes:
+  - 37
+  timesArray: []
+  clipsArray:
+  - {fileID: 8300000, guid: a9118661b0f398f45a2915ef0a075860, type: 3}
+  subtitleTranscript: {fileID: 4900000, guid: 1942ce362b57e3c429de6b486459a1ee, type: 3}
+  subtitlesArray: []
+  showTime: 1
+  Transcript: 

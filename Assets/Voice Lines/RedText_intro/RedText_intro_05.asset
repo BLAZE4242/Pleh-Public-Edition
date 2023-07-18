@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18208400d3a92224e9988e2fc344375a, type: 3}
+  m_Name: RedText_intro_05
+  m_EditorClassIdentifier: 
+  events:
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 11400000, guid: e895d27ed4c4f2245b04d84bd64ad27f, type: 2}
+        m_TargetAssemblyTypeName: loophouse.ScriptableEvents.ScriptableEvent, loophouse.ScriptableEvents
+        m_MethodName: Invoke
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 11400000, guid: ddecbfc82da1af548911d44d64bf153e, type: 2}
+        m_TargetAssemblyTypeName: loophouse.ScriptableEvents.ScriptableEvent, loophouse.ScriptableEvents
+        m_MethodName: Invoke
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 11400000, guid: 8802d565ac6732e4090d7c2e9622d07b, type: 2}
+        m_TargetAssemblyTypeName: loophouse.ScriptableEvents.ScriptableEvent, loophouse.ScriptableEvents
+        m_MethodName: Invoke
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 11400000, guid: 1a6d5bbb6b3153a4ba62b3204505a1bf, type: 2}
+        m_TargetAssemblyTypeName: loophouse.ScriptableEvents.ScriptableEvent, loophouse.ScriptableEvents
+        m_MethodName: Invoke
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  eventTimes:
+  - 5.3
+  - 8
+  - 10.4
+  - 18.45
+  subtitlesArray: []
+  timesArray: []
+  clipsArray:
+  - {fileID: 8300000, guid: fe38ccc5b434ac946a7ed35deea9ee93, type: 3}
+  MinWordForSub: 0
+  MaxWorkForSub: 0
+  showTime: 1
+  Transcript: 

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6aa36926caca1a8469460821c6270d9a, type: 3}
+  m_Name: brightness
+  m_EditorClassIdentifier: 
+  roots: []
+  files:
+  - {fileID: 11400000, guid: 71043122cc22dbd48a3a94384d97371f, type: 2}
+  - {fileID: 11400000, guid: ec9510a643d78be4299ee79758d5fea1, type: 2}
+  - {fileID: 11400000, guid: 6a71d46589679264ebdef842b06bd0fb, type: 2}
+  - {fileID: 11400000, guid: def33e04e2f43d140a5a62388f8a96b1, type: 2}
+  - {fileID: 11400000, guid: 4287ee60b4f2f65498936401711b8cf3, type: 2}

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 184b31615fabdff44a4b65b4e78fd245, type: 3}
+  m_Name: Amelia_Confess_6
+  m_EditorClassIdentifier: 
+  messages:
+  - '{s}shut up'
+  - You sound just like it.
+  responses:
+  - WHY ME
+  - END THIS NOW
+  - Amelia, I love you.
+  - Everyone secretly hates you.
+  messageConvos:
+  - {fileID: 11400000, guid: 85e576e3b85b06c4399aaf6a6a44fa94, type: 2}
+  - {fileID: 11400000, guid: 85e576e3b85b06c4399aaf6a6a44fa94, type: 2}
+  - {fileID: 11400000, guid: 85e576e3b85b06c4399aaf6a6a44fa94, type: 2}
+  - {fileID: 11400000, guid: 85e576e3b85b06c4399aaf6a6a44fa94, type: 2}
+  IsForced: 1
+  lineToPlay: []

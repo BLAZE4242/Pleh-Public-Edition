@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 184b31615fabdff44a4b65b4e78fd245, type: 3}
+  m_Name: Amelia_Intro_1_4_3
+  m_EditorClassIdentifier: 
+  messages:
+  - Hmm
+  - You're thinking about how I'm such an idiot
+  - and how I could never guess what you're thinking?
+  responses:
+  - Surprisingly correct
+  - Actually thinking about anime
+  - I'm thinking of how to get out of this conversation without seeming rude
+  - I'll never tell you :)
+  messageConvos:
+  - {fileID: 11400000, guid: 6cf99ed85310ad34186ba7f990a0df8a, type: 2}
+  - {fileID: 11400000, guid: 5117f478b9f6d8341b2e2889396f9c38, type: 2}
+  - {fileID: 11400000, guid: 3aecd65a4ced07a4eb299ffa394694c6, type: 2}
+  - {fileID: 11400000, guid: 92f3a5f7c2c92cd4cb96583b04883300, type: 2}
+  IsForced: 0
+  lineToPlay: []

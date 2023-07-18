@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e910a08a4f94714c8944a05da0e66d0, type: 3}
+  m_Name: unknown 1
+  m_EditorClassIdentifier: 
+  sender: Unknown
+  italics: 0
+  content: No one loves you, they're lying
+  timeAfterPreviousMessage: 4
+  replyContent: you dont mean that
+  methodToCall: 
+  coroutineToCall: 
+  timeToWaitForCall: 0

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 184b31615fabdff44a4b65b4e78fd245, type: 3}
+  m_Name: Amelia_Intro_1_3_3
+  m_EditorClassIdentifier: 
+  messages:
+  - Because I want to share an interest!
+  - Plus mobile games r fun anyway
+  responses:
+  - That's fair
+  - They're not fun at all
+  - I could make a game better than any mobile game
+  - Mobile games are just full of annoying ads
+  messageConvos:
+  - {fileID: 11400000, guid: b6847a14a356df2459a428fbb0bc4d43, type: 2}
+  - {fileID: 11400000, guid: 1e2b732aba347c045bd5379cbae421ba, type: 2}
+  - {fileID: 11400000, guid: 46bf6809833c20c49b9b1a86367447e4, type: 2}
+  - {fileID: 11400000, guid: 1e2b732aba347c045bd5379cbae421ba, type: 2}

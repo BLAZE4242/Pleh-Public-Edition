@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 184b31615fabdff44a4b65b4e78fd245, type: 3}
+  m_Name: Amelia_Confess_8
+  m_EditorClassIdentifier: 
+  messages:
+  - '{ts}fuck you {name}'
+  - '{ts}FUCK YOU'
+  - '{ts}how could you say something like that'
+  - '{ts}i loved you'
+  - '{ts}shouldn''t be able to see this, if you can, fuck me :p'
+  responses:
+  - GET OUT OF MY HEAD
+  - LET ME ESCAPE
+  - Amelia, I love you.
+  - You don't deserve to live.
+  messageConvos:
+  - {fileID: 11400000, guid: 552afcd4114e0c143bf356e2cc1a6f49, type: 2}
+  - {fileID: 11400000, guid: e65caafa443a2a64591441d792bb5f88, type: 2}
+  - {fileID: 11400000, guid: 9667e1c58b5811442aab41f3c7eb4483, type: 2}
+  - {fileID: 11400000, guid: b60a8e31d98ca5d44a188eff97759d2d, type: 2}
+  IsForced: 1
+  lineToPlay: []

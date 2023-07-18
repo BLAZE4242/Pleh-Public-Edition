@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 184b31615fabdff44a4b65b4e78fd245, type: 3}
+  m_Name: Amelia_Intro_End
+  m_EditorClassIdentifier: 
+  messages:
+  - '{ts}if I''m honest I kind of miss us talking like this'
+  - '{s}You never text me and we rarely talk lol'
+  - '{s}We used to talk so much what happened?'
+  - '{ts}I wish we did more often...'
+  responses:
+  - I'm so sorry...
+  - 
+  - 
+  - 
+  messageConvos: []
+  IsForced: 0
+  IsEndIntro: 1
+  lineToPlay:
+  - {fileID: 11400000, guid: f01f2e7a58164414aadf41a8d75b694b, type: 2}
+  - {fileID: 11400000, guid: 2ec8759d3979cf14e93599208596b671, type: 2}
+  - {fileID: 11400000, guid: 5891b3abbd8f7f740b74bdcbd72775ef, type: 2}
+  - {fileID: 0}

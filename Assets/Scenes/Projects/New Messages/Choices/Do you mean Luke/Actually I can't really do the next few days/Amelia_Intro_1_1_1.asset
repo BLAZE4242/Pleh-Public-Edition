@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 184b31615fabdff44a4b65b4e78fd245, type: 3}
+  m_Name: Amelia_Intro_1_1_1
+  m_EditorClassIdentifier: 
+  messages:
+  - oh
+  - r u sure
+  - haven't rly been to ur house in a while
+  - same vice versa
+  responses:
+  - Homework sucks
+  - Family gatherings sucks
+  - Having a job sucks
+  - Being grounded sucks
+  messageConvos:
+  - {fileID: 11400000, guid: 0513146b27bff074696717b273333f0b, type: 2}
+  - {fileID: 11400000, guid: ab78c2164869eb849987158c9a2dad75, type: 2}
+  - {fileID: 11400000, guid: 8e7f24be38b9b384990d72e71e717bb4, type: 2}
+  - {fileID: 11400000, guid: 5472882be4a4034498c2cbb29e65e2f5, type: 2}
+  IsForced: 0
+  lineToPlay: []

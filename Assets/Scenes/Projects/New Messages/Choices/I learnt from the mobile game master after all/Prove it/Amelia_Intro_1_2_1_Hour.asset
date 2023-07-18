@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 184b31615fabdff44a4b65b4e78fd245, type: 3}
+  m_Name: Amelia_Intro_1_2_1_Hour
+  m_EditorClassIdentifier: 
+  messages:
+  - Alright here we go!
+  - One hour starts now!
+  - Guess I gotta find something to do for the next hour
+  - '{ts}I mean, I could just talk to you for a while'
+  - I would kind of like that
+  responses: []
+  messageConvos:
+  - {fileID: 11400000, guid: c9158f93cdd380b4f9760a00793d82c3, type: 2}

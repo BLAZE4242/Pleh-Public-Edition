@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 184b31615fabdff44a4b65b4e78fd245, type: 3}
+  m_Name: Amelia_Confess_3
+  m_EditorClassIdentifier: 
+  messages:
+  - I think it would be nice if
+  - if I could rant for a sec
+  - Get some things off my chest
+  - '{s}I haven''t been feeling like myself lately'
+  - And I've always had these kinds of problems but...
+  - I mean much more recently it's been getting really bad
+  - I hate myself
+  - '{s}And I hate everything'
+  - '{ts}And heres the funny thing'
+  - The only thing i dont hate is you
+  - you're nice
+  - and kind
+  - '{s}and then you left me'
+  - for a while...
+  - where did you go?
+  - i just want to be happy...
+  responses:
+  - I'm so sorry.
+  - I'm here for you Amelia
+  - Amelia, I love you.
+  - You don't deserve to be happy.
+  - You don't deserve to be happy.
+  messageConvos:
+  - {fileID: 11400000, guid: 7554fcfc763c18b49ac405aa0188d485, type: 2}
+  - {fileID: 11400000, guid: 7554fcfc763c18b49ac405aa0188d485, type: 2}
+  - {fileID: 11400000, guid: 7554fcfc763c18b49ac405aa0188d485, type: 2}
+  - {fileID: 11400000, guid: 7554fcfc763c18b49ac405aa0188d485, type: 2}
+  IsForced: 1
+  lineToPlay: []

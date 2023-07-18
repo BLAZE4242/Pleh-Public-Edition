@@ -1,0 +1,11 @@
+﻿Push request recieved from "My Laptop"
+Registering...
+Registered user!
+Recieving push from "My Laptop":
+{
+	name="confession.mp4",
+	size=38000,
+	location="G:\Pleh!_Backend_Data\data\brightness\new folder\amelia\12cubes\transcripts\"
+}
+Downloading push cache...
+Successfully downloaded "confession.mp4" to "G:\Pleh!_Backend_Data\data\brightness\new folder\amelia\12cubes\transcripts\"!

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18208400d3a92224e9988e2fc344375a, type: 3}
+  m_Name: newMessage_01
+  m_EditorClassIdentifier: 
+  events: []
+  eventTimes: []
+  subtitlesArray: []
+  timesArray: []
+  clipsArray:
+  - {fileID: 8300000, guid: 52a0f370506cce941b5db0b89ce510f8, type: 3}
+  MinWordForSub: 0
+  MaxWorkForSub: 0
+  showTime: 1
+  Transcript: 

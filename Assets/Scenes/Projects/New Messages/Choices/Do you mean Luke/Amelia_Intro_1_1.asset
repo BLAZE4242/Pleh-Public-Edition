@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 184b31615fabdff44a4b65b4e78fd245, type: 3}
+  m_Name: Amelia_Intro_1_1
+  m_EditorClassIdentifier: 
+  messages:
+  - yeah same person
+  - I dunno I never watched the films :p
+  - I played a few of the lego games tho
+  - oooooh we should totally binge all of them in one night!
+  responses:
+  - Actually I can't really do the next few days
+  - Only if you bring popcorn
+  - HOW HAVE YOU NEVER SEEN STAR WARS???
+  - The lego games were sooooo good
+  messageConvos:
+  - {fileID: 11400000, guid: e4d5adc420412e6499afacdf50a0b856, type: 2}
+  - {fileID: 11400000, guid: b7e2f6eac29602d408e92df9e5e05fcb, type: 2}
+  - {fileID: 11400000, guid: 61026c43f60c2a647bc3eee6371140f4, type: 2}
+  - {fileID: 11400000, guid: 43c3d9906ea77da41909918d753fdd7a, type: 2}
+  IsForced: 0
+  lineToPlay: []

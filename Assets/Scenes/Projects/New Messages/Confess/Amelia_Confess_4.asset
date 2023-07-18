@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 184b31615fabdff44a4b65b4e78fd245, type: 3}
+  m_Name: Amelia_Confess_4
+  m_EditorClassIdentifier: 
+  messages:
+  - '{ts}What?'
+  - '{s}What do you mean?'
+  responses:
+  - No, not now!
+  - Stop it!
+  - Amelia, I love you.
+  - What have you done to deserve happiness?
+  messageConvos:
+  - {fileID: 11400000, guid: b17083b487b22464db40b04ab143588a, type: 2}
+  - {fileID: 11400000, guid: b17083b487b22464db40b04ab143588a, type: 2}
+  - {fileID: 11400000, guid: b17083b487b22464db40b04ab143588a, type: 2}
+  - {fileID: 11400000, guid: b17083b487b22464db40b04ab143588a, type: 2}
+  IsForced: 1
+  lineToPlay: []

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e910a08a4f94714c8944a05da0e66d0, type: 3}
+  m_Name: luke 0
+  m_EditorClassIdentifier: 
+  sender: Luke
+  italics: 0
+  bold: 0
+  content: Just wanted to mention that the last time we met you seemed a bit on edge.
+    I rly hope everything is okay? Please let me know if something isn't right
+  timeAfterPreviousMessage: 5
+  replyContent: 
+  methodToCall: botPlayGame
+  coroutineToCall: distort0
+  timeToWaitForCall: 2
+  timeToDie: 0

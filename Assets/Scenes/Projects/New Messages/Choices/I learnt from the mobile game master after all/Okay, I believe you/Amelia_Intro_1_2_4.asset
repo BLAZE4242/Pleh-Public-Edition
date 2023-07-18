@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 184b31615fabdff44a4b65b4e78fd245, type: 3}
+  m_Name: Amelia_Intro_1_2_4
+  m_EditorClassIdentifier: 
+  messages:
+  - Thank you!
+  - not really like you to just take my word for something
+  - '{ts}wait'
+  - '{s}you''re being sarcastic aren''t you'
+  responses:
+  - Yep
+  - Nope
+  - Maybe
+  - You think I don't have the ability to be serious do you?
+  messageConvos:
+  - {fileID: 11400000, guid: 60bccb2adf41d4748b0d48d83ff126d1, type: 2}
+  - {fileID: 11400000, guid: cc88cf4f1fd5d4740a8575ba41dafdce, type: 2}
+  - {fileID: 11400000, guid: 60bccb2adf41d4748b0d48d83ff126d1, type: 2}
+  - {fileID: 11400000, guid: cc88cf4f1fd5d4740a8575ba41dafdce, type: 2}
+  IsForced: 0
+  lineToPlay: []

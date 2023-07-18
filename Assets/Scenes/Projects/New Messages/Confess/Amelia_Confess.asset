@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 184b31615fabdff44a4b65b4e78fd245, type: 3}
+  m_Name: Amelia_Confess
+  m_EditorClassIdentifier: 
+  messages:
+  - U there?
+  responses:
+  - Yes
+  - What's up?
+  - Howdy
+  - I'm here
+  messageConvos:
+  - {fileID: 11400000, guid: cb7eaaf1d9f45cd4db6bc75be848030b, type: 2}
+  - {fileID: 11400000, guid: cb7eaaf1d9f45cd4db6bc75be848030b, type: 2}
+  - {fileID: 11400000, guid: cb7eaaf1d9f45cd4db6bc75be848030b, type: 2}
+  - {fileID: 11400000, guid: cb7eaaf1d9f45cd4db6bc75be848030b, type: 2}
+  IsForced: 0
+  lineToPlay: []

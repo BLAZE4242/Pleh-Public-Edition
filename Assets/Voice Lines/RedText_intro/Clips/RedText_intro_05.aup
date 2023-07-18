@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="RedText_intro_05_data" version="1.3.0" audacityversion="2.4.2" sel0="0.3112930463" sel1="0.3112930463" vpos="0" h="0.0000000000" zoom="64.2481425122" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="ARTIST" value="BLAZE"/>
+		<tag name="COMMENTS" value="pog voice recording, if you somehow access these comments I&apos;m impressed, message me on discord I&apos;m sure I put my server somewhere in the credits :D"/>
+		<tag name="TITLE" value="how does one even get access to these files?"/>
+		<tag name="ALBUM" value="69"/>
+		<tag name="TRACKNUMBER" value="420"/>
+		<tag name="DATE" value="2077(cyberpunggs)"/>
+		<tag name="GENRE" value="electroswing"/>
+	</tags>
+	<wavetrack name="RedText_intro_05" isSelected="1" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="125611">
+				<waveblock start="0">
+					<simpleblockfile filename="e08088a6.au" len="125611" min="-0.118378" max="0.180328" rms="0.010015"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="RedText_intro_05" isSelected="1" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="125611">
+				<waveblock start="0">
+					<simpleblockfile filename="e080872b.au" len="125611" min="-0.11911" max="0.180115" rms="0.010034"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>

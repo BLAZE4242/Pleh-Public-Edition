@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 184b31615fabdff44a4b65b4e78fd245, type: 3}
+  m_Name: Amelia_Intro_1_4_1
+  m_EditorClassIdentifier: 
+  messages:
+  - Thank you!!!
+  - I've worked so hard for this amazing award!
+  - I will accept it with great honor!
+  - '{ts}wait, what is actually the award?'
+  responses:
+  - Worlds biggest dumbass
+  - Worlds most addicted mobile gamer
+  - Worlds whitest sneakers
+  - Worlds most clingy award winner
+  messageConvos:
+  - {fileID: 11400000, guid: 21364f00d82955c41b54d991fdf8e8ab, type: 2}
+  - {fileID: 11400000, guid: f80d7592441276f4eb8a560a08fa75b2, type: 2}
+  - {fileID: 11400000, guid: f80d7592441276f4eb8a560a08fa75b2, type: 2}
+  - {fileID: 11400000, guid: 21364f00d82955c41b54d991fdf8e8ab, type: 2}

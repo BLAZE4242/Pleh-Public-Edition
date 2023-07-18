@@ -1,0 +1,3276 @@
+fileFormatVersion: 2
+guid: 5583ba52912b83b4a84d3b135973d79f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7212240526603569143
+    second: plutochristmas-Sheet_0
+  - first:
+      213: -1813894203930404523
+    second: plutochristmas-Sheet_1
+  - first:
+      213: -2597241090501791484
+    second: plutochristmas-Sheet_2
+  - first:
+      213: -32846601782672156
+    second: plutochristmas-Sheet_3
+  - first:
+      213: -5595988804194122541
+    second: plutochristmas-Sheet_4
+  - first:
+      213: -3810748706999589310
+    second: plutochristmas-Sheet_5
+  - first:
+      213: -8593339608583737705
+    second: plutochristmas-Sheet_6
+  - first:
+      213: 5188451253189891857
+    second: plutochristmas-Sheet_7
+  - first:
+      213: 8487468843465745727
+    second: plutochristmas-Sheet_8
+  - first:
+      213: -8390433045411819245
+    second: plutochristmas-Sheet_9
+  - first:
+      213: -6838885315943369008
+    second: plutochristmas-Sheet_10
+  - first:
+      213: 3520237598284825789
+    second: plutochristmas-Sheet_11
+  - first:
+      213: -2891649751184563125
+    second: plutochristmas-Sheet_12
+  - first:
+      213: 7846630330716860320
+    second: plutochristmas-Sheet_13
+  - first:
+      213: 3656237494337411772
+    second: plutochristmas-Sheet_14
+  - first:
+      213: -5437902559824210210
+    second: plutochristmas-Sheet_15
+  - first:
+      213: -8423403444887948889
+    second: plutochristmas-Sheet_16
+  - first:
+      213: 2087672161257096233
+    second: plutochristmas-Sheet_17
+  - first:
+      213: -3510859592681661979
+    second: plutochristmas-Sheet_18
+  - first:
+      213: 737780496799239462
+    second: plutochristmas-Sheet_19
+  - first:
+      213: -8466339934189081727
+    second: plutochristmas-Sheet_20
+  - first:
+      213: 2077211263487552774
+    second: plutochristmas-Sheet_21
+  - first:
+      213: 6484626734739735529
+    second: plutochristmas-Sheet_22
+  - first:
+      213: 4224972608974949927
+    second: plutochristmas-Sheet_23
+  - first:
+      213: 132039006535315427
+    second: plutochristmas-Sheet_24
+  - first:
+      213: 8465352465128072905
+    second: plutochristmas-Sheet_25
+  - first:
+      213: -1934373148593672721
+    second: plutochristmas-Sheet_26
+  - first:
+      213: 7210554058673088663
+    second: plutochristmas-Sheet_27
+  - first:
+      213: -410409426789946515
+    second: plutochristmas-Sheet_28
+  - first:
+      213: -556061478704999214
+    second: plutochristmas-Sheet_29
+  - first:
+      213: -4603416225724576461
+    second: plutochristmas-Sheet_30
+  - first:
+      213: -9172581830761583051
+    second: plutochristmas-Sheet_31
+  - first:
+      213: 2675820589164944066
+    second: plutochristmas-Sheet_32
+  - first:
+      213: 3218344929569382141
+    second: plutochristmas-Sheet_33
+  - first:
+      213: 9070293857628369940
+    second: plutochristmas-Sheet_34
+  - first:
+      213: -4872615799109698324
+    second: plutochristmas-Sheet_35
+  - first:
+      213: 5203218643583638144
+    second: plutochristmas-Sheet_36
+  - first:
+      213: -8869053654392122419
+    second: plutochristmas-Sheet_37
+  - first:
+      213: -8423249762401871217
+    second: plutochristmas-Sheet_38
+  - first:
+      213: -8633647600218849431
+    second: plutochristmas-Sheet_39
+  - first:
+      213: -3992884634814232664
+    second: plutochristmas-Sheet_40
+  - first:
+      213: -7012931333690001653
+    second: plutochristmas-Sheet_41
+  - first:
+      213: 464859845261543596
+    second: plutochristmas-Sheet_42
+  - first:
+      213: -9026098723769679564
+    second: plutochristmas-Sheet_43
+  - first:
+      213: -1182131043844843582
+    second: plutochristmas-Sheet_44
+  - first:
+      213: 4038889352683237361
+    second: plutochristmas-Sheet_45
+  - first:
+      213: 1913162315930212773
+    second: plutochristmas-Sheet_46
+  - first:
+      213: -390269629476882626
+    second: plutochristmas-Sheet_47
+  - first:
+      213: -4368268489325975602
+    second: plutochristmas-Sheet_48
+  - first:
+      213: 3765742464700041153
+    second: plutochristmas-Sheet_49
+  - first:
+      213: 2933627370189945186
+    second: plutochristmas-Sheet_50
+  - first:
+      213: -7472269958411788215
+    second: plutochristmas-Sheet_51
+  - first:
+      213: -8339711172048370573
+    second: plutochristmas-Sheet_52
+  - first:
+      213: -3660143344816587553
+    second: plutochristmas-Sheet_53
+  - first:
+      213: -4556690755826576411
+    second: plutochristmas-Sheet_54
+  - first:
+      213: -3995569495490578360
+    second: plutochristmas-Sheet_55
+  - first:
+      213: 3538777316028796638
+    second: plutochristmas-Sheet_56
+  - first:
+      213: 4232559291424758611
+    second: plutochristmas-Sheet_57
+  - first:
+      213: -1138985578756944336
+    second: plutochristmas-Sheet_58
+  - first:
+      213: 2768953560202958569
+    second: plutochristmas-Sheet_59
+  - first:
+      213: 8467282876436921536
+    second: plutochristmas-Sheet_60
+  - first:
+      213: -171940323336962513
+    second: plutochristmas-Sheet_61
+  - first:
+      213: 1598837211165870709
+    second: plutochristmas-Sheet_62
+  - first:
+      213: 2771422223440260592
+    second: plutochristmas-Sheet_63
+  - first:
+      213: 3780614119533881931
+    second: plutochristmas-Sheet_64
+  - first:
+      213: 5522633314688616983
+    second: plutochristmas-Sheet_65
+  - first:
+      213: 4589883970930993661
+    second: plutochristmas-Sheet_66
+  - first:
+      213: 6696610728574846846
+    second: plutochristmas-Sheet_67
+  - first:
+      213: 4215289451627091568
+    second: plutochristmas-Sheet_68
+  - first:
+      213: 701732097228474981
+    second: plutochristmas-Sheet_69
+  - first:
+      213: -3311811815276524002
+    second: plutochristmas-Sheet_70
+  - first:
+      213: -1040643680475657754
+    second: plutochristmas-Sheet_71
+  - first:
+      213: -5804108986424253918
+    second: plutochristmas-Sheet_72
+  - first:
+      213: -8577176823884023669
+    second: plutochristmas-Sheet_73
+  - first:
+      213: 8156787003213832679
+    second: plutochristmas-Sheet_74
+  - first:
+      213: 7558974443762714920
+    second: plutochristmas-Sheet_75
+  - first:
+      213: 147777491634043290
+    second: plutochristmas-Sheet_76
+  - first:
+      213: 3111949167841385330
+    second: plutochristmas-Sheet_77
+  - first:
+      213: -6321610169469651030
+    second: plutochristmas-Sheet_78
+  - first:
+      213: 8040584227450844664
+    second: plutochristmas-Sheet_79
+  - first:
+      213: 7619112811907150455
+    second: plutochristmas-Sheet_80
+  - first:
+      213: 6014499817367896437
+    second: plutochristmas-Sheet_81
+  - first:
+      213: 2998555478994083669
+    second: plutochristmas-Sheet_82
+  - first:
+      213: 2613951967669059331
+    second: plutochristmas-Sheet_83
+  - first:
+      213: 3656353815201499435
+    second: plutochristmas-Sheet_84
+  - first:
+      213: -8509252390105499963
+    second: plutochristmas-Sheet_85
+  - first:
+      213: 1390067857499908578
+    second: plutochristmas-Sheet_86
+  - first:
+      213: -2177341334373525151
+    second: plutochristmas-Sheet_87
+  - first:
+      213: 8079496538979477234
+    second: plutochristmas-Sheet_88
+  - first:
+      213: -7454800804319538694
+    second: plutochristmas-Sheet_89
+  - first:
+      213: 6240750208809247002
+    second: plutochristmas-Sheet_90
+  - first:
+      213: 4847580808449569021
+    second: plutochristmas-Sheet_91
+  - first:
+      213: 3591163985717062953
+    second: plutochristmas-Sheet_92
+  - first:
+      213: 1203585517729765940
+    second: plutochristmas-Sheet_93
+  - first:
+      213: -4895139801590178400
+    second: plutochristmas-Sheet_94
+  - first:
+      213: -8400326447315189621
+    second: plutochristmas-Sheet_95
+  - first:
+      213: -8832816664993101456
+    second: plutochristmas-Sheet_96
+  - first:
+      213: -6814572967897220031
+    second: plutochristmas-Sheet_97
+  - first:
+      213: 6195350860259543200
+    second: plutochristmas-Sheet_98
+  - first:
+      213: -1478963524746616255
+    second: plutochristmas-Sheet_99
+  - first:
+      213: -4695957506017477490
+    second: plutochristmas-Sheet_100
+  - first:
+      213: -1837948015124953230
+    second: plutochristmas-Sheet_101
+  - first:
+      213: -5971138660798205755
+    second: plutochristmas-Sheet_102
+  - first:
+      213: -6037052452522944569
+    second: plutochristmas-Sheet_103
+  - first:
+      213: 1527551407874184558
+    second: plutochristmas-Sheet_104
+  - first:
+      213: 6086447114498175005
+    second: plutochristmas-Sheet_105
+  - first:
+      213: 4221170519751756924
+    second: plutochristmas-Sheet_106
+  - first:
+      213: 1271658544044849620
+    second: plutochristmas-Sheet_107
+  - first:
+      213: 4726612017431567173
+    second: plutochristmas-Sheet_108
+  - first:
+      213: -8508769401896321818
+    second: plutochristmas-Sheet_109
+  - first:
+      213: -2393071829247238687
+    second: plutochristmas-Sheet_110
+  - first:
+      213: 2625054892137205426
+    second: plutochristmas-Sheet_111
+  - first:
+      213: 4942531084310254645
+    second: plutochristmas-Sheet_112
+  - first:
+      213: -8275937899446251453
+    second: plutochristmas-Sheet_113
+  - first:
+      213: -6506162160578346860
+    second: plutochristmas-Sheet_114
+  - first:
+      213: -1843915401432304082
+    second: plutochristmas-Sheet_115
+  - first:
+      213: -6404685891908145000
+    second: plutochristmas-Sheet_116
+  - first:
+      213: -2514292920158537136
+    second: plutochristmas-Sheet_117
+  - first:
+      213: -5728304474493168547
+    second: plutochristmas-Sheet_118
+  - first:
+      213: 7759305504586525009
+    second: plutochristmas-Sheet_119
+  - first:
+      213: -6814755506823609902
+    second: plutochristmas-Sheet_120
+  - first:
+      213: 6476861736364662383
+    second: plutochristmas-Sheet_121
+  - first:
+      213: -533452914995021035
+    second: plutochristmas-Sheet_122
+  - first:
+      213: -8567422275100912372
+    second: plutochristmas-Sheet_123
+  - first:
+      213: -5293528514653661309
+    second: plutochristmas-Sheet_124
+  - first:
+      213: 4153273077522867324
+    second: plutochristmas-Sheet_125
+  - first:
+      213: 1662212852102000552
+    second: plutochristmas-Sheet_126
+  - first:
+      213: -629706734357510632
+    second: plutochristmas-Sheet_127
+  - first:
+      213: -1899564388172556929
+    second: plutochristmas-Sheet_128
+  - first:
+      213: 4279924845600259112
+    second: plutochristmas-Sheet_129
+  - first:
+      213: -3512325802747899207
+    second: plutochristmas-Sheet_130
+  - first:
+      213: -8042766545971401620
+    second: plutochristmas-Sheet_131
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9083e110479f8eb90800000000000000
+      internalID: -7212240526603569143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559969af4d0c3d6e0800000000000000
+      internalID: -1813894203930404523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401b79c2dfeb4fbd0800000000000000
+      internalID: -2597241090501791484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e44aa0903e4b8ff0800000000000000
+      internalID: -32846601782672156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d442f6d4dd0752b0800000000000000
+      internalID: -5595988804194122541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246a20fbd308d1bc0800000000000000
+      internalID: -3810748706999589310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e621cc7235eb880800000000000000
+      internalID: -8593339608583737705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11750d8dce4110840800000000000000
+      internalID: 5188451253189891857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35a8f0d1fb89c570800000000000000
+      internalID: 8487468843465745727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311978089913f8b80800000000000000
+      internalID: -8390433045411819245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d67f830a066711a0800000000000000
+      internalID: -6838885315943369008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4cdb2d1756ad030800000000000000
+      internalID: 3520237598284825789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b442cc53fdbced7d0800000000000000
+      internalID: -2891649751184563125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af2f2a66b4d4ec60800000000000000
+      internalID: 7846630330716860320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba127821a09db230800000000000000
+      internalID: 3656237494337411772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed69d7ede60b884b0800000000000000
+      internalID: -5437902559824210210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1f6ab223f0a1b80800000000000000
+      internalID: -8423403444887948889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924833b05c6e8fc10800000000000000
+      internalID: 2087672161257096233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9dfe14dcbe64fc0800000000000000
+      internalID: -3510859592681661979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d0ee1f37f1d3a00800000000000000
+      internalID: 737780496799239462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ba4fabfa4818a80800000000000000
+      internalID: -8466339934189081727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60dad9b73acb3dc10800000000000000
+      internalID: 2077211263487552774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3c92188a50ef950800000000000000
+      internalID: 6484626734739735529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e05b7f33e12aa30800000000000000
+      internalID: 4224972608974949927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef6801e6c815d100800000000000000
+      internalID: 132039006535315427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6af663739fa7570800000000000000
+      internalID: 8465352465128072905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed250fbed9b725e0800000000000000
+      internalID: -1934373148593672721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798e5f496b8011460800000000000000
+      internalID: 7210554058673088663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ba6bffcceed4af0800000000000000
+      internalID: -410409426789946515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2291
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4928008097848f0800000000000000
+      internalID: -556061478704999214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33dca6825516d10c0800000000000000
+      internalID: -4603416225724576461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ee0406c6174b080800000000000000
+      internalID: -9172581830761583051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 2528
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca5ad316ac622520800000000000000
+      internalID: 2675820589164944066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe99a379abd9ac20800000000000000
+      internalID: 3218344929569382141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414b850053820ed70800000000000000
+      internalID: 9070293857628369940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 2765
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec3c173fbdf06cb0800000000000000
+      internalID: -4872615799109698324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a1e7bd9cb853840800000000000000
+      internalID: 5203218643583638144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 2923
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3d31c01bacae480800000000000000
+      internalID: -8869053654392122419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a94a928fa9a1b80800000000000000
+      internalID: -8423249762401871217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 3081
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f3d09204f1f2880800000000000000
+      internalID: -8633647600218849431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 3160
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a748c0749c6698c0800000000000000
+      internalID: -3992884634814232664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 3239
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07733dab101dae90800000000000000
+      internalID: -7012931333690001653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 3318
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8482bf093837600800000000000000
+      internalID: 464859845261543596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 3397
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4310a16780bdcb280800000000000000
+      internalID: -9026098723769679564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 3476
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c79aad241a389fe0800000000000000
+      internalID: -1182131043844843582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 3555
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffaac1a7740d0830800000000000000
+      internalID: 4038889352683237361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 3634
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a91fae6dfaec8a10800000000000000
+      internalID: 1913162315930212773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 3713
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e373868f6db759af0800000000000000
+      internalID: -390269629476882626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 3792
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7613af3fac063c0800000000000000
+      internalID: -4368268489325975602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 3871
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7cc04e1da924430800000000000000
+      internalID: 3765742464700041153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 3950
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269f887dc8656b820800000000000000
+      internalID: 2933627370189945186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 4029
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940ea07001a2d4890800000000000000
+      internalID: -7472269958411788215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 4108
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37443bcefd4634c80800000000000000
+      internalID: -8339711172048370573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 4187
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc7239250f843dc0800000000000000
+      internalID: -3660143344816587553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 4266
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e396a366e163c0c0800000000000000
+      internalID: -4556690755826576411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 4345
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848b5e996b2ec88c0800000000000000
+      internalID: -3995569495490578360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 4424
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede4b1d38334c1130800000000000000
+      internalID: 3538777316028796638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 4503
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bd62020421dba30800000000000000
+      internalID: 4232559291424758611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 4582
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e46e596a28130f0800000000000000
+      internalID: -1138985578756944336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 4661
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6537ba79c4d6620800000000000000
+      internalID: 2768953560202958569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 4740
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc35ce1ae4d18570800000000000000
+      internalID: 8467282876436921536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 4819
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e3fe8df252d9df0800000000000000
+      internalID: -171940323336962513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 4898
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ac739f8f5303610800000000000000
+      internalID: 1598837211165870709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 4977
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fda7ce14d1167620800000000000000
+      internalID: 2771422223440260592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 5056
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4aa4abd280777430800000000000000
+      internalID: 3780614119533881931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 5135
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ac0c25db554ac40800000000000000
+      internalID: 5522633314688616983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 5214
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9e99f372b82bf30800000000000000
+      internalID: 4589883970930993661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 5293
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7706cb3af32fec50800000000000000
+      internalID: 6696610728574846846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 5372
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0761fa53c67bf7a30800000000000000
+      internalID: 4215289451627091568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 5451
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a0bcedf9d0db900800000000000000
+      internalID: 701732097228474981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 5530
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e408363b41a02d0800000000000000
+      internalID: -3311811815276524002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 5609
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e94e7f0614ee81f0800000000000000
+      internalID: -1040643680475657754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 5688
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222a78ad0a9a37fa0800000000000000
+      internalID: -5804108986424253918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 5767
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88fdac5f1fb7f880800000000000000
+      internalID: -8577176823884023669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 5846
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1651b109ab23170800000000000000
+      internalID: 8156787003213832679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 5925
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8298bba153fd6e860800000000000000
+      internalID: 7558974443762714920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 6004
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9935ae78d20d0200800000000000000
+      internalID: 147777491634043290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 6083
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b1244c74ddf2b20800000000000000
+      internalID: 3111949167841385330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 6162
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7b3405b012548a0800000000000000
+      internalID: -6321610169469651030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 6241
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5f0d701c4e59f60800000000000000
+      internalID: 8040584227450844664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 6320
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7727a511cb68cb960800000000000000
+      internalID: 7619112811907150455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 6399
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5718ddbb7bbc77350800000000000000
+      internalID: 6014499817367896437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 6478
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f5eb432520d9920800000000000000
+      internalID: 2998555478994083669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 6557
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ff8dc177f964420800000000000000
+      internalID: 2613951967669059331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 6636
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29ca383c6afdb230800000000000000
+      internalID: 3656353815201499435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 6715
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c63e9ff80019e980800000000000000
+      internalID: -8509252390105499963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 6794
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e968fbf9538a4310800000000000000
+      internalID: 1390067857499908578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 6873
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16914e9a79788c1e0800000000000000
+      internalID: -2177341334373525151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 6952
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6aed19b43202070800000000000000
+      internalID: 8079496538979477234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 7031
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1dc3b6a2a3b8890800000000000000
+      internalID: -7454800804319538694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 7110
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11250000499b9650800000000000000
+      internalID: 6240750208809247002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 7189
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df033abcf01164340800000000000000
+      internalID: 4847580808449569021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 7268
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d67d24e9066d130800000000000000
+      internalID: 3591163985717062953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 7347
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a5619c6aef3b010800000000000000
+      internalID: 1203585517729765940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 7426
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad57583948f01cb0800000000000000
+      internalID: -4895139801590178400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 7505
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80857e5a9b0c6b80800000000000000
+      internalID: -8400326447315189621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 7584
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0798fec9a088b6580800000000000000
+      internalID: -8832816664993101456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 7663
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cb188adf5cd61a0800000000000000
+      internalID: -6814572967897220031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 7742
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a84ea478ce4af550800000000000000
+      internalID: 6195350860259543200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 7821
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142e7b7928aa97be0800000000000000
+      internalID: -1478963524746616255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 7900
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cbf7d478b94deb0800000000000000
+      internalID: -4695957506017477490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 7979
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277c7d2a40c4e76e0800000000000000
+      internalID: -1837948015124953230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 8058
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c075824601422da0800000000000000
+      internalID: -5971138660798205755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 8137
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c718f4b7c4183ca0800000000000000
+      internalID: -6037052452522944569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 8216
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e651d7289e3f23510800000000000000
+      internalID: 1527551407874184558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_105
+      rect:
+        serializedVersion: 2
+        x: 8295
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d107ddb3767677450800000000000000
+      internalID: 6086447114498175005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_106
+      rect:
+        serializedVersion: 2
+        x: 8374
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c8726193c949a30800000000000000
+      internalID: 4221170519751756924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_107
+      rect:
+        serializedVersion: 2
+        x: 8453
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9326155b6d5a110800000000000000
+      internalID: 1271658544044849620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_108
+      rect:
+        serializedVersion: 2
+        x: 8532
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bd912569c489140800000000000000
+      internalID: 4726612017431567173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_109
+      rect:
+        serializedVersion: 2
+        x: 8611
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecb1447f47cae980800000000000000
+      internalID: -8508769401896321818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_110
+      rect:
+        serializedVersion: 2
+        x: 8690
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed59bfa9d91aced0800000000000000
+      internalID: -2393071829247238687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_111
+      rect:
+        serializedVersion: 2
+        x: 8769
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be4db924811e6420800000000000000
+      internalID: 2625054892137205426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_112
+      rect:
+        serializedVersion: 2
+        x: 8848
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53493a3a5d5679440800000000000000
+      internalID: 4942531084310254645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_113
+      rect:
+        serializedVersion: 2
+        x: 8927
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34050580456f52d80800000000000000
+      internalID: -8275937899446251453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_114
+      rect:
+        serializedVersion: 2
+        x: 9006
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490c3af6cf775b5a0800000000000000
+      internalID: -6506162160578346860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_115
+      rect:
+        serializedVersion: 2
+        x: 9085
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2671cd36b81966e0800000000000000
+      internalID: -1843915401432304082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_116
+      rect:
+        serializedVersion: 2
+        x: 9164
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890fbd26d1cfd17a0800000000000000
+      internalID: -6404685891908145000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_117
+      rect:
+        serializedVersion: 2
+        x: 9243
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05abba019ef6b1dd0800000000000000
+      internalID: -2514292920158537136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_118
+      rect:
+        serializedVersion: 2
+        x: 9322
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54dd882e69f080b0800000000000000
+      internalID: -5728304474493168547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_119
+      rect:
+        serializedVersion: 2
+        x: 9401
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159ec90fe379eab60800000000000000
+      internalID: 7759305504586525009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_120
+      rect:
+        serializedVersion: 2
+        x: 9480
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d144a009ff1d61a0800000000000000
+      internalID: -6814755506823609902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_121
+      rect:
+        serializedVersion: 2
+        x: 9559
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ed55fee6f62e950800000000000000
+      internalID: 6476861736364662383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_122
+      rect:
+        serializedVersion: 2
+        x: 9638
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b3351766bc898f0800000000000000
+      internalID: -533452914995021035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_123
+      rect:
+        serializedVersion: 2
+        x: 9717
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0557db35d66a1980800000000000000
+      internalID: -8567422275100912372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_124
+      rect:
+        serializedVersion: 2
+        x: 9796
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387daabbcdb9986b0800000000000000
+      internalID: -5293528514653661309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_125
+      rect:
+        serializedVersion: 2
+        x: 9875
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74a1f8ebd363a930800000000000000
+      internalID: 4153273077522867324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_126
+      rect:
+        serializedVersion: 2
+        x: 9954
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afe0ae38cd511710800000000000000
+      internalID: 1662212852102000552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_127
+      rect:
+        serializedVersion: 2
+        x: 10033
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81603f9bf05d247f0800000000000000
+      internalID: -629706734357510632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_128
+      rect:
+        serializedVersion: 2
+        x: 10112
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f751ef6d04463a5e0800000000000000
+      internalID: -1899564388172556929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_129
+      rect:
+        serializedVersion: 2
+        x: 10191
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c3f5798f8556b30800000000000000
+      internalID: 4279924845600259112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_130
+      rect:
+        serializedVersion: 2
+        x: 10270
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2d5cf9a46b14fc0800000000000000
+      internalID: -3512325802747899207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plutochristmas-Sheet_131
+      rect:
+        serializedVersion: 2
+        x: 10349
+        y: 0
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6caaf7507a526090800000000000000
+      internalID: -8042766545971401620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

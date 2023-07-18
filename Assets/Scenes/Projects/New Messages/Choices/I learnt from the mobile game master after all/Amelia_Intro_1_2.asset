@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 184b31615fabdff44a4b65b4e78fd245, type: 3}
+  m_Name: Amelia_Intro_1_2
+  m_EditorClassIdentifier: 
+  messages:
+  - heyyy I'm not that addicted
+  - I can stop playing any time I want >:(
+  responses:
+  - Prove it
+  - What do you even play?
+  - Denial is the first stage of addiction
+  - Okay, I believe you
+  messageConvos:
+  - {fileID: 11400000, guid: 42a92ba389611be49aeba0c8a0a182e8, type: 2}
+  - {fileID: 11400000, guid: 05db1825efc8dd640b345d340fb3171d, type: 2}
+  - {fileID: 11400000, guid: 642b377a51de55f43a78d00b3007096e, type: 2}
+  - {fileID: 11400000, guid: e16cb91b7c8a43d45ac387677b9866e8, type: 2}

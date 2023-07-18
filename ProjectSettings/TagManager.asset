@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Cube
+  - Exit
+  - Door
+  - Music
+  - Sender Text
+  - Message Text
+  - Reply Text
+  - Chair
+  - Text
+  - Starfield
+  - Transcript
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Belt
+  - Post Processing
+  - Hide in scene
+  - Player
+  - Cant touch player
+  - No Post Processing
+  - 2d Cube
+  - Can only touch player
+  - Post Processing 1
+  - Reflection 1
+  - Reflection 2
+  - Rain
+  - Floor
+  - noclip
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

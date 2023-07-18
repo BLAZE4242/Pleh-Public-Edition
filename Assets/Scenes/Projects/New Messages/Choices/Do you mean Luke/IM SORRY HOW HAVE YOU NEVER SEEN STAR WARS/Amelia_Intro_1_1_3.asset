@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 184b31615fabdff44a4b65b4e78fd245, type: 3}
+  m_Name: Amelia_Intro_1_1_3
+  m_EditorClassIdentifier: 
+  messages:
+  - I DONT LIKE OLD MOVIES
+  - Plus they look kinda boring and predictable
+  - Whats ur favorite genre?
+  responses:
+  - Action
+  - Romance
+  - Horror
+  - Drama
+  messageConvos:
+  - {fileID: 11400000, guid: b5998511d3cb1784a805c6d1168f5843, type: 2}
+  - {fileID: 11400000, guid: 0be52cc529de12a4bbfae678f08b67ff, type: 2}
+  - {fileID: 11400000, guid: 9ebcb28ae6ba1784eb5cfd36618e977a, type: 2}
+  - {fileID: 11400000, guid: 380efd3033bde1a489560c19d8b32e11, type: 2}

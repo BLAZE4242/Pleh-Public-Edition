@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 184b31615fabdff44a4b65b4e78fd245, type: 3}
+  m_Name: Amelia_Intro_1_2_3
+  m_EditorClassIdentifier: 
+  messages:
+  - IM NOT IN DENIAL
+  - AND IM NOT ADDICTED
+  - You're in denial of me not being in denial!
+  - '{ts}...kind of'
+  responses:
+  - You make no sense
+  - I'm going to deny that
+  - You're the biggest mobile game addict I've ever met
+  - You should seek help.
+  messageConvos:
+  - {fileID: 11400000, guid: 63be5365c1610a749a5fd1d2614133fd, type: 2}
+  - {fileID: 11400000, guid: 8ab387860c1fd6a48a6abf244a517e5a, type: 2}
+  - {fileID: 11400000, guid: 40b1b3428d845c74b95304d0c2a5b885, type: 2}
+  - {fileID: 11400000, guid: d8ecf5f8e7f07394993113b29f84db23, type: 2}
