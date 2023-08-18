@@ -97,7 +97,7 @@ EditorBuildSettings:
     guid: c847e5b10f73c694399dcad713d96a3a
   - enabled: 1
     path: Assets/Scenes/Hub/hub_bingus.unity
-    guid: 0b489a46d49d5c94bbcc430eee4f2d6b
+    guid: 59bf41e142b1d31488956d4048e54783
   - enabled: 1
     path: Assets/Scenes/ARG/EKSE/ekse.unity
     guid: 65c3935e5f6b86b4684b4b198eed0f7b

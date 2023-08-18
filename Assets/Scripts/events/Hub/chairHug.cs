@@ -52,7 +52,7 @@ public class chairHug : MonoBehaviour
     {
 
         RaycastHit hit;
-        if(Physics.Raycast(playerCam.transform.position, playerCam.transform.TransformDirection(Vector3.forward), out hit, range) && hit.transform == cabinetToOpen)
+        if (Physics.Raycast(playerCam.transform.position, playerCam.transform.TransformDirection(Vector3.forward), out hit, range) && hit.transform == cabinetToOpen)
         {
             if (!cabinetIsOpen)
             {
@@ -62,9 +62,9 @@ public class chairHug : MonoBehaviour
                 Vector3 targetCabinetPos = cabinetToOpen.position + new Vector3(0.6f, 0, 0);
                 LerpSolution.lerpPosition(cabinetToOpen, targetCabinetPos, 1.85f);
                 cabinetIsOpen = true;
-                while(cabinetToOpen.position != targetCabinetPos)
+                while (cabinetToOpen.position != targetCabinetPos)
                 {
-                    if(isPlayerTouching())
+                    if (isPlayerTouching())
                     {
                         transform.parent = cabinetToOpen; //Makes the player a child of the drawer so they can move with it instead of physics going crazy
                         _controller.lockMovement = true;
@@ -79,7 +79,7 @@ public class chairHug : MonoBehaviour
                 FindObjectOfType<Transcript>().currentState = Transcript.transcriptStates.idle;
                 StartCoroutine(FindObjectOfType<Transcript>().TranscriptIdle());
             }
-            else if(cabinetFullyOpen && !transcriptCollected)
+            else if (cabinetFullyOpen && !transcriptCollected)
             {
                 transcriptCollected = true;
                 FindObjectOfType<Transcript>().Collect();
@@ -94,7 +94,7 @@ public class chairHug : MonoBehaviour
 
     void FixedUpdate()
     {
-        if(canLockYpos)
+        if (canLockYpos)
         {
             transform.position = new Vector3(transform.position.x, startYpos, transform.position.z);
         }
@@ -104,7 +104,7 @@ public class chairHug : MonoBehaviour
 
     IEnumerator hasPushed(GameObject chair)
     {
-        
+        int somero = 1;
 
         bool shouldCrash = chair.name.EndsWith("Death");
         if (chair.name.EndsWith("Win"))
@@ -113,10 +113,18 @@ public class chairHug : MonoBehaviour
             FindObjectOfType<AudioSource>().PlayOneShot(winSfx);
             StartCoroutine(closeGame());
         }
+        else if (chair.name == "ChairHub")
+        {
+            somero = 2;
+        }
 
         if (!shouldCrash)
         {
-            if (chairStat() == 1499)
+            if (chair.name == "ChairHub" && PlayerPrefs.GetInt("chair") == 1498)
+            {
+                somero = 1;
+            }
+            if (chairStat(somero) == 1499)
             {
                 PrepareArt();
             }
@@ -149,10 +157,10 @@ public class chairHug : MonoBehaviour
 
     }
 
-    int chairStat()
+    int chairStat(int num = 1)
     {
-        PlayerPrefs.SetInt("chair", PlayerPrefs.GetInt("chair") + 1);
-        
+        PlayerPrefs.SetInt("chair", PlayerPrefs.GetInt("chair") + num);
+
         if (FindObjectOfType<devroom_manager>() != null)
         {
             FindObjectOfType<devroom_manager>().UpdateChairText();
@@ -184,13 +192,13 @@ public class chairHug : MonoBehaviour
 
     void OnControllerColliderHit(ControllerColliderHit hit)
     {
-        if(hit.transform.CompareTag("Chair") && canPush)
+        if (hit.transform.CompareTag("Chair") && canPush)
         {
             CameraShake.Shake(0.2f, 0.06f, false);
             Rigidbody rb = hit.collider.attachedRigidbody;
             Vector3 pushDir = new Vector3(hit.moveDirection.x, 0, hit.moveDirection.z);
             rb.AddForce(pushDir * pushPower + new Vector3(0, Random.Range(-30, 30), 0), ForceMode.Impulse);
-            
+
             StartCoroutine(hasPushed(hit.gameObject));
         }
     }
@@ -199,7 +207,7 @@ public class chairHug : MonoBehaviour
     {
         Vector2 cubePos = new Vector2(cube.position.x, cube.position.z);
         Vector2 playerPos = new Vector2(transform.position.x, transform.position.z);
-        if(Vector3.Distance(cubePos, playerPos) < 0.9f) return true;
+        if (Vector3.Distance(cubePos, playerPos) < 0.9f) return true;
         else return false;
     }
 
@@ -234,7 +242,7 @@ public class chairHug : MonoBehaviour
         AudioSource source = GameObject.Find("SFX").GetComponent<AudioSource>();
         source.clip = song;
         source.Play();
-        
+
         yield return GeneralManager.waitForSeconds(6);
 
         LerpSolution.lerpImageColourTime(whiteScreen, Color.white, 9);
