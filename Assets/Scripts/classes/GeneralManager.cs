@@ -48,6 +48,13 @@ public class GeneralManager : MonoBehaviour
 
     private void Start()
     {
+#if UNITY_EDITOR // For the open source pleh
+        if (!PlayerPrefs.HasKey("Volume"))
+        {
+            Debug.LogWarning("No volume thing has been created yet... creating one for you ;)");
+            PlayerPrefs.SetString("Volume", "-16.25962|0.1538222");
+        }
+#endif
         if (PlayerPrefs.GetString("Volume").Split('|')[0] == "NaN") mixer.SetFloat("Volume", -80);
         else if (PlayerPrefs.HasKey("Volume"))
         {
